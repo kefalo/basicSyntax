@@ -16,11 +16,11 @@ string_add = sumNums('one', 'two')
 print(string_add)
 
 sum1 = sumNums(2, 8)
-
 sum2 = sumNums(6, 6)
-
 print(sum1)
+
 print("*"*30)
+
 def isMetro(city):
     l = ['NS', 'BG', 'KG']
 
