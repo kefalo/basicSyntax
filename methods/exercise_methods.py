@@ -29,4 +29,4 @@ def tax_of_states(gross, state):
         print("State not in the list")
         return None
 
-tax_of_states(12000,'NS')
+tax_of_states(50000, 'NS')
