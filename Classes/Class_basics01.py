@@ -2,8 +2,6 @@
 Object Oriented Programming
 Basics of Python OOP - Exercise #01
 """
-
-
 class Car(object):
     def __init__(self, make, model):
         self.make = make

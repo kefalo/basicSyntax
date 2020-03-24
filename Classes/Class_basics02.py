@@ -2,8 +2,6 @@
 Object Oriented Programming
 ###Creating your own methods###
 """
-
-
 class Car(object):
     wheels = 4
 

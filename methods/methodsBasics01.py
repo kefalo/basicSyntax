@@ -2,7 +2,6 @@
 A group of code statements which can perform some specific task
 Methods group of code statements, which will going to complete some kind of workflow and into one logical entity
 """
-
 def sumNums(n1, n2):
     """
     Get sum of two numbers

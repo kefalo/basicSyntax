@@ -1,8 +1,6 @@
 """
 Inheritance
 """
-
-
 class Car(object):
     def __init__(self):
         print("You just created the car instance")
